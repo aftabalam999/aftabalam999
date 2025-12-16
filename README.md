@@ -2,9 +2,6 @@
 
 ### Passionate Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabalam999&label=Profile views&color=0e75b6&style=flat" alt="aftabalam999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabalam999" alt="aftabalam999" /></a> </p>
 
 - 🔭 I'm currently working on **A MERN stack project**
 
@@ -34,5 +31,4 @@ Now learning MERN.**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabalam999&show_icons=true&locale=en" alt="aftabalam999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabalam999&" alt="aftabalam999" /></p>
 
