@@ -21,7 +21,7 @@ Now learning MERN.**
 <a href="https://github.com/aftabalam999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aftabalam999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aftabalam999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabalam999" height="30" width="40" /></a>
 <a href="https://instagram.com/jasiiin999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasiiin999" height="30" width="40" /></a>
-<a href="https://codechef.com/users/aftabalam999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="aftabalam999" height="30" width="40" /></a>
+<a href="https://codechef.com/users/aftabalam999" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="aftabalam999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
