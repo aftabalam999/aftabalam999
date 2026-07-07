@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on A MERN stack project<br><br>🌱 I'm currently learning SQL and React<br><br>💬 Ask me about Full Stack Developer | HTML | CSS | BOOTSTRAP | Node js | Express js Now learning MERN.<br><br>📫 How to reach me course.aftabalam@gmail.com<br><br>👨‍💻 All of my projects are available at https://aftabalam-portfolio.vercel.app/<br>
+🔭 I'm currently working on A MERN stack project<br><br>🌱 I'm currently learning SQL and React<br><br>💬 Ask me about Full Stack Developer | HTML | CSS | BOOTSTRAP | Node js | Express js<br><br>📫 How to reach me course.aftabalam@gmail.com<br><br>👨‍💻 All of my projects are available at https://aftabalam-portfolio.vercel.app/<br>
 
 
 ## 🌐 Socials:
